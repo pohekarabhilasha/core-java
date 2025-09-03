@@ -3,6 +3,8 @@ package com.abhilasha;
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		
+		// data types basics
 
 		System.out.println("Hello World !!!");
 
