@@ -8,6 +8,7 @@ public class HelloWorld {
 
 		System.out.println("Hello World !!!");
 
+		// primitive data types
 		byte b = (byte) 127;
 		boolean bool = false;
 		char c = 'a';
